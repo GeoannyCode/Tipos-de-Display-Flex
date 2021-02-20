@@ -10,11 +10,19 @@
     border: 1px solid rgba(255, 255, 255, .25);
 }
 
+div .alto{
+    height: 200px;
+    background-color: #98ded9;
+}
+
 .container{
     background: whitesmoke;
 }
 
 .row > div {
-    background: whitesmoke;
     margin-top: 20px;
+}
+
+div .contenedor{
+    background: #98ded9;
 }
